@@ -40,7 +40,7 @@ Below you are presented with the control/environment variables.
 `RATE_LIMIT_MAX` | The max number of requests per 15m allowed. | `200`
 `PROXY_WS` | Whether or not websockets should be proxied. | `true`
 
-For more options and general implementation guide please check the [Express](https://expressjs.com/en/api.html) and [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) documentation here.
+For more options and general implementation guide please check the [Express](https://expressjs.com/en/api.html) and [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) documentation.
 
 ## Roadmap
 
