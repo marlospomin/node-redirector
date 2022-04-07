@@ -10,5 +10,11 @@
   "scripts": {
     "start": "node index.mjs",
     "build": "yarn install"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-rate-limit": "^6.3.0",
+    "helmet": "^5.0.2",
+    "http-proxy-middleware": "^2.0.4"
   }
 }
