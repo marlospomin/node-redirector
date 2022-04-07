@@ -1,0 +1,14 @@
+{
+  "name": "node-redirector",
+  "version": "1.0.0",
+  "description": "A smart and disposable HTTPS C2 redirector built with Node.",
+  "main": "index.mjs",
+  "repository": "git@github.com:marlospomin/node-redirector.git",
+  "author": "Marlos Pomin <marlospomin@gmail.com>",
+  "license": "Apache 2.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.mjs",
+    "build": "yarn install"
+  }
+}
